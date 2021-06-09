@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\Glaucio\Documents\YOUX\Aulas\.metadata\.plugins\org.eclipse.jdt.core
+2096698821.index
+3880702082.index
+171521544.index
+2186806427.index
+2233136621.index
+2118615352.index
+3861961647.index
